@@ -59,3 +59,8 @@
 .location {
   color: cornflowerblue;
 }
+
+.back {
+  display: block;
+  text-align: center;
+}

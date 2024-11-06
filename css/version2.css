@@ -75,3 +75,8 @@ b {
 .experience h4 {
   margin-bottom: 0px;
 }
+
+.back {
+  display: block;
+  text-align: center;
+}

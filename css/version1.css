@@ -7,3 +7,8 @@ html {
 span {
   color: pink;
 }
+
+.back {
+  display: block;
+  text-align: center;
+}
